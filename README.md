@@ -24,13 +24,13 @@
   
  ## Membres
 
-Emma Pavelak
-Alexandre Vernet
-Julie Celli
-Thomas Roque
-Arnaud Lefrancois
-Valentin Arpin
-Timothée Cognard
+Emma Pavelak  
+Alexandre Vernet  
+Julie Celli  
+Thomas Roque  
+Arnaud Lefrancois  
+Valentin Arpin  
+Timothée Cognard  
 
 ## Description
 
